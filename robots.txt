@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://angry.oneone.digital/chartpresence20_sitemap.xml
